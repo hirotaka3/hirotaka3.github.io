@@ -1,0 +1,18 @@
+@import "https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:300";
+
+.top {
+  text-align: center;
+  height: 100vh;
+}
+
+h1 {
+  font-family: 'Alegreya Sans SC', sans-serif;
+  margin-top: 150px;
+  font-size: 50px;
+  font-weight: normal;
+}
+
+p {
+  font-family: serif;
+  font-size: 24px;
+}
